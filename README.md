@@ -15,3 +15,7 @@ Its main goals are:
 # Project Status
 
 Just getting started. [Join the community discussion](https://ambianicai.slack.com/archives/C011GNE2EGN).
+
+# Related Projects
+
+* [Raspberry Pi Camera Case made in OpenSCAD](https://youtu.be/mZ9OWpSGRZU)
