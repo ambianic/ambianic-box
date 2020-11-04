@@ -19,7 +19,7 @@ Just getting started. [Join the community discussion](https://ambianicai.slack.c
 # Related Projects
 
 * [Raspberry Pi Camera Case made in OpenSCAD](https://youtu.be/mZ9OWpSGRZU)
-* [Compact Weatherproof Raspberry Pi Camera Case] (https://tinkererblog.wordpress.com/2015/07/28/how-i-designed-a-compact-weatherproof-raspberry-pi-case/)
+* [Compact Weatherproof Raspberry Pi Camera Case](https://tinkererblog.wordpress.com/2015/07/28/how-i-designed-a-compact-weatherproof-raspberry-pi-case/)
 * [RASPBERRY PI 2 and Camera Case](https://grabcad.com/library/raspberry-pi-2-camera-case-1)
 * [Smoothcam Raspberry Pi 4 Camera Case](https://ameridroid.com/products/smoothcam-raspberry-pi-4-camera-case-3d-printed)
 * [Raspberry Pi HQ Camera Case](https://learn.adafruit.com/raspberry-pi-hq-camera-case/3d-printing)
