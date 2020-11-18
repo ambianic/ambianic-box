@@ -26,6 +26,13 @@ An initial prototype is now available for testing.
 
 [Join the community discussion](https://ambianicai.slack.com/archives/C011GNE2EGN).
 
+A few photo shots of the latest prototype: 3D printed, assembled, SD flashed and ready to help with DYI family home care.
+
+<span aligh="left">
+  <img src="https://user-images.githubusercontent.com/2234901/99598679-87df9000-29bf-11eb-9d62-ddb1b402e803.jpeg" height="400"/>
+  <img src="https://user-images.githubusercontent.com/2234901/99598684-8910bd00-29bf-11eb-9b8c-be91dfa28021.jpeg" height="400"/>
+<span>
+
 # Related Projects
 
 * [Raspberry Pi Camera Case made in OpenSCAD](https://youtu.be/mZ9OWpSGRZU)
