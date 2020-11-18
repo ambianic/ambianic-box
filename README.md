@@ -2,8 +2,6 @@
 
 An Open Source physical enclosure for Ambianic Edge.
 
-Ambianic Box is focused on creating an Open Source physical enclosure for an Ambianic Edge device.
-
 The source 3D CAD file is currently [hosted on TinkerCad](https://www.tinkercad.com/things/iaHcZO7BVqD). 
 
 An STL exported file is availble in this github repo.
