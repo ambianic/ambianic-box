@@ -3,6 +3,12 @@ The physical enclosure for an ambianic-edge device.
 
 Ambianic Box is focused on creating an Open Source physical enclosure for an Ambianic Edge device.
 
+The source 3D CAD file is currently [hosted on TinkerCad](https://www.tinkercad.com/things/iaHcZO7BVqD). 
+
+An STL exported file is availble in this github repo.
+
+# Project Goals
+
 Its main goals are:
 -  [ ] Easy to 3D Print and Assemble
 -  [ ] Less than $10 for printing materials (PLA, PETG or ABS).
@@ -14,7 +20,9 @@ Its main goals are:
 
 # Project Status
 
-Just getting started. [Join the community discussion](https://ambianicai.slack.com/archives/C011GNE2EGN).
+Just getting started. An initial prototype is now available for testing.
+
+[Join the community discussion](https://ambianicai.slack.com/archives/C011GNE2EGN).
 
 # Related Projects
 
