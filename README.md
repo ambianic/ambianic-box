@@ -21,7 +21,7 @@ Its main goals are:
 
 # Project Status
 
-Just getting started. An initial prototype is now available for testing.
+An initial prototype is now available for testing.
 
 [Join the community discussion](https://ambianicai.slack.com/archives/C011GNE2EGN).
 
