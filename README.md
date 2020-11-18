@@ -4,11 +4,14 @@ An Open Source physical enclosure for Ambianic Edge.
 
 The source 3D CAD file is currently [hosted on TinkerCad](https://www.tinkercad.com/things/iaHcZO7BVqD). 
 
-An STL exported file is availble in this github repo.
+An STL exported file is availble in this github repo. [Click here for 3D View](Ambianic%20Box%20for%20Home%20Care.stl)
+
+<img src="https://github.com/ambianic/ambianic-box/raw/main/ambianic_box_rendering.png" height="400"/>
 
 # Project Goals
 
 Its main goals are:
+-  [ ] Available as Open Source for DYI enthusiasts worldwide
 -  [ ] Easy to 3D Print and Assemble
 -  [ ] Less than $10 for printing materials (PLA, PETG or ABS).
 -  [ ] Under 5 hours print time with a common 3D printer.
