@@ -1,5 +1,6 @@
 # Ambianic Box
-The physical enclosure for an ambianic-edge device.
+
+An Open Source physical enclosure for Ambianic Edge.
 
 Ambianic Box is focused on creating an Open Source physical enclosure for an Ambianic Edge device.
 
