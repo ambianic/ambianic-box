@@ -4,7 +4,7 @@ An Open Source physical enclosure for Ambianic Edge.
 
 The source 3D CAD file is currently [hosted on TinkerCad](https://www.tinkercad.com/things/iaHcZO7BVqD). 
 
-An STL exported file is availble in this github repo. [Click here for 3D View](Ambianic%20Box%20for%20Home%20Care.stl)
+An STL exported file is availble in this github repo. [Click here for 3D View](Ambianic_Box_for_Home_Care.stl)
 
 <img src="https://github.com/ambianic/ambianic-box/raw/main/ambianic_box_rendering.png" height="400"/>
 
