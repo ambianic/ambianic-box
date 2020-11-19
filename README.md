@@ -46,7 +46,7 @@ Following is an example breakdown of a single Ambianic Box build using off the s
 | 3D Print Material (130g of PLA) | $3  | [MatterHackers](https://www.matterhackers.com/store/l/175mm-pla-filament-white-1-kg/sk/MEEDKTKU?rcode=GAT9HR&gclid=Cj0KCQiAqdP9BRDVARIsAGSZ8AkzOYaP5s5nvpkNWoCH_eiSJXGnUHVKdi8fQJLOE69DU3W1SD2gkawaAoRIEALw_wcB), [amazon](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6/ref=sr_1_3?dchild=1&keywords=PLA+Plastic&qid=1605758618&sr=8-3) |
 | **Total**  | **54** | ____________ |
 
-If you don't have a 3D printer handy for the box enclosure, you can use a service like [CraftCloud3D](http://craftcloud3d.com/) to order a 3D print shipped to your doorstep within several days. The prices for an Ambianic Box 3D model print range from $20-30 as of November 2020 depending on the provider and print material.
+If you don't have a 3D printer handy for the box enclosure, you can use a service like [CraftCloud3D](http://craftcloud3d.com/) to order a 3D print shipped to your door within several days. The prices for an [Ambianic Box 3D model](Ambianic_Box_for_Home_Care.stl) print range from $20-30 as of November 2020 depending on the provider and print material.
 
 
 # Related Projects
