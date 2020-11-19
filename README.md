@@ -48,6 +48,9 @@ Following is an example breakdown of a single Ambianic Box build using off the s
 
 If you don't have a 3D printer handy for the box enclosure, you can use a service like [CraftCloud3D](http://craftcloud3d.com/) to order a 3D print shipped to your door within several days. The prices for an [Ambianic Box 3D model](Ambianic_Box_for_Home_Care.stl) print range from $20-30 as of November 2020 depending on the provider and print material.
 
+## Installing Ambianic Edge
+
+We recommend installing the [Ambianic Raspberry Pi Image](https://github.com/ambianic/ambianic-rpi-image) on the Ambianic Box.
 
 # Related Projects
 
