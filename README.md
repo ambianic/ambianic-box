@@ -17,7 +17,7 @@ The initial project goals are:
 -  [X] Under 20 hours print time with a common 3D printer.
 -  [X] Fool proof to mount correctly with the desired area of camera coverage.
 -  [X] Works well indoors to capture most home care related accidents. Not intended as an outdoors weather proof surveilance device.
--  [ ] Easy to setup and connect to Ambiniac UI.
+-  [X] Easy to setup and connect to Ambiniac UI.
 -  [ ] Easy to reset to default settings when needed.
 
 # Project Status
