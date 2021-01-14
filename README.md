@@ -77,4 +77,3 @@ We recommend installing the [Ambianic Raspberry Pi Image](https://github.com/amb
 * [RASPBERRY PI AND CAMERA TO SECURITY CAM](https://cults3d.com/en/3d-model/various/raspberry-pi-and-camera-to-security-cam-enclosure-mount-source-files-included)
 * [Raspberry Pi Security Camera](https://all3dp.com/9-things-you-need-for-a-3d-printed-raspberry-pi-security-camera/)
 * [Raspberry Pi HD surveillance camera](https://tritek.pw/2013/11/01/raspberry-pi-hd-surveillance-camera/)
-
