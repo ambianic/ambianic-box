@@ -4,6 +4,12 @@
 
 An Open Source physical enclosure for Ambianic Edge.
 
+# How to Assemble an Ambianic Box
+
+Step by step slides are [availble here](https://docs.google.com/presentation/d/1c2Wt52JPmUs0BP-XSc2Seeb-17KDfzI1omAuMwRDAhU/edit#slide=id.p2).
+
+# 3D Model
+
 The source 3D CAD file is currently [hosted on TinkerCad](https://www.tinkercad.com/things/iaHcZO7BVqD). 
 
 An STL exported file is availble in this github repo. [Click here for 3D View](Ambianic_Box_for_Home_Care.stl)
@@ -62,7 +68,7 @@ Ambianic Box can stand up on a flat surface or it can be mounted. For wall mount
 
 ---
 
-## Installing Ambianic Edge
+# Installing Ambianic Edge
 
 We recommend installing the [Ambianic Raspberry Pi Image](https://github.com/ambianic/ambianic-rpi-image) on the Ambianic Box.
 
