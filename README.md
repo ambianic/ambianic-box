@@ -6,7 +6,7 @@ An Open Source physical enclosure for Ambianic Edge.
 
 # How to Assemble an Ambianic Box
 
-Step by step slides are [availble here](https://docs.google.com/presentation/d/1c2Wt52JPmUs0BP-XSc2Seeb-17KDfzI1omAuMwRDAhU/edit#slide=id.p2).
+Step by step assemly instructions [availble here](https://docs.ambianic.ai/users/ambianicbox/).
 
 # 3D Model
 
