@@ -78,7 +78,11 @@ Ambianic Box can stand up on a flat surface or it can be mounted. For wall mount
 
 # Installing Ambianic Edge
 
-We recommend installing the [Ambianic Raspberry Pi Image](https://github.com/ambianic/ambianic-rpi-image) on the Ambianic Box.
+Ambianic Box comes to live once [Ambianic Raspberry Pi Image](https://github.com/ambianic/ambianic-rpi-image) is installed.
+  
+To get a sense of the full user experience, take a look at the [Ambianic Quick Start Guide](https://docs.ambianic.ai/users/quickstart/).
+  
+Since all layers of the system are Open Source, you can swap any of them out with your own.
 
 # Related Projects
 
