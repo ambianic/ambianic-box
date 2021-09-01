@@ -2,7 +2,15 @@
 
 [![Join the Slack chat room](https://img.shields.io/badge/Slack-Join%20the%20chat%20room-blue)](https://join.slack.com/t/ambianicai/shared_invite/zt-eosk4tv5-~GR3Sm7ccGbv1R7IEpk7OQ)
 
-An Open Source physical enclosure for Ambianic Edge.
+An Open Source Smart Camera: 3D printable enclosure for Raspberry Pi 4B with a Raspberry Camera.
+
+# Why does Ambianic Box exist?
+
+Proprietary camera manufacturers don't make it easy to access their products via open APIs. RTSP is available in some models, but hard to figure out. ONVIF is partially supported and usually hidden behind several proprietary enablement steps. Turned off by defauly more often than not.
+
+Many camera manufacturers want you to use their own app for access to their cameras and integration into their own home automation platforms. They are protecting current and future revenue. All trying to sell subscription services and higher end models with AI features, which ironically have been under so much public criticism for violation of user privacy. The combination of closed access and subscription cloud services goes against the principals of building trust with users via transparency and user data privacy. 
+
+So here we go. Let's build something that works for Open Source developers and DIY hobbyists.
 
 # How to Assemble an Ambianic Box
 
