@@ -11,7 +11,9 @@ Ambianic Box is a 3D printable enclosure for Ambianic Edge. It is intended for R
   <img src="https://user-images.githubusercontent.com/2234901/99598684-8910bd00-29bf-11eb-9b8c-be91dfa28021.jpeg" height="400"/>  
 <span>
  
- #The Alternate Casing
+  
+
+ # The Alternate Casing
   
   The image below shows the isometric view of the alternate casing.
   <img src="https://github.com/nueladeyemi1/ambianic-box/blob/main/AmbianicCase.JPG" height="400"/>
